@@ -1,4 +1,4 @@
-import java.util.Arrays;
+
 
 public class LotsOfVars {
 	//instance variables
